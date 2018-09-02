@@ -2,7 +2,7 @@
 
 A react web application using the Clarifai AI API to detect faces in any images. The front end was built in react and the back end server and database was created using Node.js and PostgreSQL. bcrypt encryption for security, deployed on Heroku.
 
-###### Demo:
+### Demo:
 
 Start back end server: https://facesmartbrainapi.herokuapp.com/ <br />
 Start front end webpage: https://facesmartbrain.herokuapp.com/
